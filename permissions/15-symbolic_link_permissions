@@ -1,0 +1,2 @@
+#!/bin/bash
+chint -h vincent:staff _hello 2>/dev/null || chown -h vincent:staff _hello
